@@ -3,7 +3,9 @@
 
 <!--
 **PuneethRegonda/PuneethRegonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passion towards Computers made my days more colorful. For me all started with Question How computers work, which opened many core subjects Operating systems , Computer Architecture , Its Digit signals and Logics , Computer Networks and Internet. Learning to code started to Programming and building up my Logics to Code. Zeal to build applications to meet the problems with proper Software development practices and Knowledges of Databases made me efficient Software Developer. 
 
+I am a Software Developer. 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
