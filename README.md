@@ -1,6 +1,6 @@
-### Hello there 👋 🔭 🌱 💬 👯 📫 ⚡
+### Hello there 👋 
 
-Passion towards Computers made my days more colorful. For me all started with Question How computers work, which opened many core subjects Operating systems, Computer Architecture, Digit signals and Logics, Computer Networks and Internet. Learning to code started to Programming and building up my Logics to Code were my foundations to build applications to meet the problems with proper Software development practices and Knowledges of Databases made me efficient Software Developer. 
+Passion towards Computers made my days more colorful. For me all started with Question How computers work, which opened many core subjects Operating systems, Computer Architecture, Digital signals and Logics, Computer Networks and Internet. Learning to code started to Programming and building up my Logics to Code were my foundations to build applications to meet the problems with proper Software development practices and Knowledges of Databases made me efficient Software Developer. 
 
 I am a Software Developer. 👨‍💻
 
